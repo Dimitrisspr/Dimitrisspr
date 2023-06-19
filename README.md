@@ -4,7 +4,7 @@
   , I'm Dimitris! 
 </h1>
 <h2>
-  Hey there, my name is Dimitris (i guess you already guessed that :P), i am a full stack web developer with a diverse background on political, economical and apparently software engineering studies. What i like about web developing is that you never stop learning and thats what makes it appealing. Feel free to have a look and check my repos! See ya!
+  Hey there, my name is Dimitris (i guess you already guessed that :P), i am a full stack web developer with a diverse background on political, economical and software engineering studies. What i like about web developing is that you never stop learning and thats what makes it appealing. Feel free to have a look and check my repos! See ya!
 </h2>
 
 <!--
