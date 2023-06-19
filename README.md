@@ -3,7 +3,9 @@
   <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="40px" alt="hi">
   , I'm Dimitris! 
 </h1>
-
+<h2>
+  Hey there, my name is Dimitris (i guess you already saw that :P), i am a full stack web developer with a diverse background on political, economical and apparently software engineering studies. What i like about web developing is that you never stop learning and thats what makes it appealing. Feel free to have a look and check my repos! See ya!
+</h2>
 
 <!--
 
